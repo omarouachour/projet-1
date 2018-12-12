@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/vendors/bootstrap.css">
+    <link rel="stylesheet" href="css/vendors/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Document</title>
+</head>
+<body>
+    
+<!-- header -->
+   <header>
+       <div class="container">
+           <div class="row">
+              
+              <!-- bars icons -->
+       <!-- <i class="icon fa fa-bars fa-2x"></i>     -->
+              
+               <!-- logo -->
+               <div class="col-md-3 col-xs-12">
+                   <div class="logo">
+                      
+                      <img class="for_default" src="http://ecoleiris.fr/wp-content/uploads/2016/07/li.png" width="356" height="90" alt="li">
+                   </div>
+               </div>
+             
+               
+               <!-- navigation -->
+               <nav class="col-md-9 col-xs-12">
+                   <ul class="nav-list">
+                       <li class="list"><a href="*">l'ecole</a> </li>
+                       <li class="list"><a href="*">les formations</a> </li>
+                       <li class="list"><a href="*">vie etudiante</a> </li>
+                       <li class="list"><a href="*">entreprises</a> </li>
+                       <li class="list"><a href="*">papa</a> </li>
+                       <li class="list"><a href="*">iz</a> </li>
+                       <li class="list"><a href="*">knf</a> </li>
+                       <li class="list"><a href="*">ijhnsfighi</a> </li>
+                       <li class="list"><a href="*">snldjfni</a> </li>
+                   </ul>
+               </nav>
+           </div>
+       </div>
+   </header>
+   
+   <!-- header -->
+
+       <section class="sections home text-left">
+          <div class="ovelay">
+              <div class="container">
+             <!-- <div class="home-content"> -->
+                  <h3 class="home-title">Decouvrer Nos Formations</h3>
+              <p class=" lead home-desc">
+                  bienvenue chez nous
+              </p>
+            <button class="btn button"> join us </button>
+            <!--  </div>-->  
+              
+              
+          </div>
+          </div>
+           
+       </section>
+       <footer>
+           <div id='right'>
+                Right side column.
+            </div>
+
+            <div id='footer'>
+                <p>
+                    A fixed footer.
+                </p>
+            </div>
+        </footer>
+        
+    <script src="JS/vendors/jquery-3.3.1.min.js"></script>
+    <script src ="JS/vendors/bootstrap.js"></script>
+    <sript src="JS/main.js"></sript>
+</body>
+</html>
+
+
